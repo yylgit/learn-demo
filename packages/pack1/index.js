@@ -1,3 +1,4 @@
 module.exports = {
- a:'a' 
+ a:'a' ,
+ b: 'b'
 }
