@@ -1,12 +1,12 @@
 {
   "name": "yyl-learn-pack2",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "postpublish":"echo \"postpublish\"",
-    "prepublish":"echo \"prepublish\""
+    "postpublish": "echo \"postpublish\"",
+    "prepublish": "echo \"prepublish\""
   },
   "dependencies": {
     "gulp": "^3.9.1"
