@@ -1,3 +1,3 @@
 module.exports = {
-  a:'modify pack2'
+  a:'modify pack2e'
 }
