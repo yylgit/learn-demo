@@ -2,7 +2,7 @@
   "name": "root",
   "private": true,
   "scripts": {
-    "publish": "lerna version --no-push --no-git-tag-version"
+    "publish": "lerna publish"
   },
   "devDependencies": {
     "lerna": "^3.5.1"
