@@ -7,7 +7,7 @@ function getCurrentVersion () {
   var lernaJson = JSON.parse(fs.readFileSync(lernaPath,{encoding:'utf8'}));
   currentVersion = lernaJson.version;
 }
-console.log('prepublish');
+console.log('prepublish:yyl');
 getCurrentVersion();
 console.log(`currentVersion: ${currentVersion}`)
 
