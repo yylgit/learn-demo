@@ -1,6 +1,6 @@
 {
   "name": "yyl-learn-pack2",
-  "version": "2.0.15",
+  "version": "2.0.19-alpha.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -13,5 +13,5 @@
   },
   "author": "",
   "license": "ISC",
-  "gitHead": "5f1b9d01c63d7aceebf37170276efa553cc992e7"
+  "gitHead": "5b6b6bf9987f8f1ceaba48636ca9230e140384bc"
 }
