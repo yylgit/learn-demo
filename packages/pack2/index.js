@@ -1,3 +1,3 @@
 module.exports = {
-  a:'modify pack2de'
+  a:'modify sspack2de'
 }
