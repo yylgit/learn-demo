@@ -1,6 +1,6 @@
 {
   "name": "yyl-learn-pack1",
-  "version": "2.1.10",
+  "version": "2.1.11",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "chai": "^4.2.0",
-    "yyl-learn-pack2": "^2.1.10"
+    "yyl-learn-pack2": "^2.1.11"
   },
   "author": "",
   "license": "ISC"
