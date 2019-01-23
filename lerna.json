@@ -9,6 +9,10 @@
       "noPush": true,
       "message": "chore(release): publish %s",
       "gitRemote": "didi"
+    },
+    "version": {
+      "noGitTagVersion": true,
+      "noPush": true
     }
   },
   "version": "2.0.12"
