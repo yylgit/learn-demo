@@ -7,6 +7,6 @@
     "updated": "lerna updated"
   },
   "dependencies": {
-    "lerna": "^3.10.7"
+    "lerna": "^3.5.1"
   }
 }
