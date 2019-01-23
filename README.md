@@ -1,5 +1,5 @@
 第一种方法
-
+这个是3.10的高版本
 lerna publish --skip-git  先发布子包  此时代码的version 都没有变
 lerna version --no-git-tag-version --no-push  再改变版本
 也可以给cli安装子包  
@@ -13,7 +13,7 @@ lerna publish --no-git-tag-version --no-push  子包发布成功   没有提交 
 
 可能lerna版本的问题
 
-npm run 中的就不会自动改变版本
+npm run 中的就不会自动改变版本 这个是高版本3.10
 
 
 直接执行的就可以
