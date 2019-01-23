@@ -9,6 +9,6 @@
     "lerna": "^3.5.1"
   },
   "dependencies": {
-    "yyl-learn-pack1": "^2.0.15"
+    "yyl-learn-pack1": "^2.0.18"
   }
 }
