@@ -8,7 +8,9 @@
     },
     "version": {
       "message": "chore(release): publish %s",
-      "git-remote": "didi"
+      "gitRemote": "didi",
+      "noGitTagVersion": true
+
     }
   },
   "version": "2.0.9"
