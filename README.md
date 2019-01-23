@@ -7,4 +7,5 @@ lerna version --no-git-tag-version --no-push  再改变版本
 统一提交版本修改并打tag
 
 第二种方法
-lerna publish --no-git-tag-version --no-push  子包发布成功   没有提交 版本号也改了
+lerna publish --no-git-tag-version --no-push  子包发布成功   没有提交 版本号也改了  显示lerna命令失败
+
