@@ -2,9 +2,13 @@
   "name": "root",
   "private": true,
   "scripts": {
-    "publish": "lerna publish -h"
+    "publish": "lerna publish --skip-git",
+    "version": "lerna version --no-git-tag-version --no-push"
   },
   "devDependencies": {
     "lerna": "^3.5.1"
+  },
+  "dependencies": {
+    "yyl-learn-pack1": "^2.0.15"
   }
 }
