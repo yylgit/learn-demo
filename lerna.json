@@ -4,14 +4,8 @@
   ],
   "command": {
     "publish": {
-      "allowBranch": "master",
-      "noPush": true,
-      "message": "chore(release): publish %s",
-      "gitRemote": "didi"
-    },
-    "version": {
-      "noPush": true
+      "allowBranch": "master"
     }
   },
-  "version": "2.2.6-alpha.0"
+  "version": "2.2.6"
 }
