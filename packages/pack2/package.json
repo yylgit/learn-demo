@@ -1,6 +1,6 @@
 {
   "name": "yyl-learn-pack2",
-  "version": "2.2.0",
+  "version": "2.2.2-alpha.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -12,5 +12,6 @@
     "gulp": "^3.9.1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "gitHead": "accfb697fd5f21d577735f65ead2a8e9f0cc0de2"
 }
