@@ -18,3 +18,5 @@ npm run 中的就不会自动改变版本 这个是高版本3.10
 
 直接执行的就可以
 
+lerna publish --no-git-tag-version --no-push  
+
